@@ -48,8 +48,8 @@ Or download it from [ffmpeg.org](https://ffmpeg.org/download.html) and add it to
 ### 2. Clone and create a virtual environment
 
 ```bash
-git clone git@github.com:Swas26/DLCNN_Ass_3.git
-cd DLCNN_Ass_3
+git clone git@github.com:DebuggingMyLife/Advertisement-Detection-Exposure-Analysis-in-Formula-1.git
+cd Advertisement_Detection_Exposure_Analysis_in_Formula_1
 
 python -m venv .venv
 source .venv/bin/activate        # Mac/Linux
